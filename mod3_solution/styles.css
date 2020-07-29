@@ -1,0 +1,41 @@
+body {
+	/*font-size: 16px;
+	color:#fff;
+	background-color: #1a1515;
+	font-family: Oxigen, sans-serif;*/
+}
+
+/*HEADER*/
+#header-nav {
+	/*background-color: #bc4848;
+	border-radius: 0;
+	border: 0;*/
+}
+
+#nav-list {
+	background-color: #3a1212; 
+}
+
+hr {
+	margin: 0 auto;
+	width: 90%;
+}
+
+/*MAIN CONTENT*/
+h2 {
+	margin-top: 0;
+}
+
+body div section {
+	font-size: 2vw;
+	background-color: #b1afb5;
+	border: 3px solid black;
+	line-height: 2;
+	margin: 0 auto 20px;
+	padding: 0 2em;
+}
+
+h3 {
+	font: sans-serif;
+	font-weight: bold;
+}
